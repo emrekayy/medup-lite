@@ -47,6 +47,8 @@ Bu proje kapsamında aşağıdaki Flutter konuları uygulanmıştır:
 ## ▶️ Çalıştırma Adımları
 
 1. Projeyi klonla:
+2. kullanici adi: admin
+3. sifre: 123
 ```bash
 git clone https://github.com/KULLANICI_ADIN/medup-lite.git
 cd medup-lite
