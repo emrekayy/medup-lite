@@ -1,16 +1,52 @@
-# medup_lite
+# 💊 MedUp Lite – Mini Catalog App
 
-A new Flutter project.
+## 📱 Proje Açıklaması
+MedUp Lite, Flutter kullanılarak geliştirilen basit bir **mini katalog uygulamasıdır**.  
+Bu proje, temel mobil uygulama geliştirme kavramlarını öğrenmek amacıyla hazırlanmıştır.
 
-## Getting Started
+Uygulama sayesinde kullanıcılar:
+- İlaçları listeleyebilir
+- Detaylarını görüntüleyebilir
+- Sepete ekleyebilir
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Özellikler
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 📦 GridView ile ürün listeleme
+- 🔍 Ürün detay sayfası
+- 🔁 Sayfalar arası geçiş (Navigator)
+- 🛒 Basit sepet sistemi (stateful)
+- 🖼️ Asset görseller kullanımı
+- 📐 Responsive ve düzenli UI tasarımı
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🧠 Öğrenilen Konular
+
+Bu proje kapsamında aşağıdaki Flutter konuları uygulanmıştır:
+
+- Stateless & Stateful Widget yapısı
+- Widget ağacı (Widget Tree)
+- Navigator.push / pop kullanımı
+- Route ile veri taşıma
+- GridView ve ListView kullanımı
+- Model sınıfı oluşturma
+- Asset yönetimi
+
+---
+
+## 🛠️ Kullanılan Teknolojiler
+
+- Flutter SDK
+- Dart
+- Material Design (material.dart)
+
+---
+
+## ▶️ Çalıştırma Adımları
+
+1. Projeyi klonla:
+```bash
+git clone https://github.com/KULLANICI_ADIN/medup-lite.git
+cd medup-lite
